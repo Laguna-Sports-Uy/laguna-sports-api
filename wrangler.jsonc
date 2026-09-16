@@ -1,0 +1,11 @@
+{
+  "name": "laguna-sports-api",
+  "main": "worker.js",
+  "compatibility_date": "2026-09-15",
+  "r2_buckets": [
+    {
+      "binding": "PHOTOS_BUCKET",
+      "bucket_name": "laguna-sports-media"
+    }
+  ]
+}
